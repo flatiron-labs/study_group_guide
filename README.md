@@ -49,7 +49,9 @@ Show students how to use TDD and "thinking out loud" to solve a small code chall
 # Logistics
 
 ## Creating and Scheduling
-* Create a scheduled Zoom meeting using your WeWork zoom account. When should you hold your study group? Literally any time! Online students have varied schedules, so whenever works for you is fine. 
+* Create a scheduled Zoom meeting using your WeWork zoom account.
+  * **When should you hold your study group?** Literally any time! Online students have varied schedules, so whenever works for you is fine.
+  * **How long should your study group be?** One hour is the norm
 * Visit Learn.co
 * Click the big green "create a study group" button
 * Fill out the form, including the Zoom link, and hit submit!
