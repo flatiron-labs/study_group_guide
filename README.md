@@ -48,6 +48,11 @@ Show students how to use TDD and "thinking out loud" to solve a small code chall
 
 # Logistics
 
+## Prerequisites
+* You need to be a member of the learn-co-students GitHub org. DM Sophie or Niky to invite you if you're not a member.
+* In your Learn.co profile, set "in browser IDE" as your default learning environment.
+* From the "Curriculum" drop down menu on Learn.co, select "Fullstack Web Development v6"
+
 ## Creating and Scheduling
 * Create a scheduled Zoom meeting using your WeWork zoom account.
   * **When should you hold your study group?** Literally any time! Online students have varied schedules, so whenever works for you is fine.
