@@ -1,6 +1,9 @@
 # Study Group Guide
 
 ## Tl;Dr
+Engineer-led study groups are **every Wednesday from 5-6pm**. They are remote and conducted on Zoom.
+
+* Pick a Wednesday by visiting the student council google calendar and [signing up for an available wednesday study group slot.](https://calendar.google.com/calendar/selfsched?sstoken=UUxqYncwVXUzUGo0fGRlZmF1bHR8YjhkMmUwMTQ4MmFiYjdmZGY4ODYzYThkMTU2YzQzMmI)
 * Pick a topic like a specific lab to review, topic you can provide AMA-style "office hours" on, small app you can build out live or small coding problem like a code kata to solve live.
 * Go to [Learn.co](https://learn.co) and click the big green "create study group" button.
 * Fill out the date, time, title, and zoom link. Title your group: "Learn Engineer Led: The Title"
