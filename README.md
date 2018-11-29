@@ -3,8 +3,9 @@
 ## Tl;Dr
 * Pick a topic like a specific lab to review, topic you can provide AMA-style "office hours" on, small app you can build out live or small coding problem like a code kata to solve live.
 * Go to [Learn.co](https://learn.co) and click the big green "create study group" button.
-* Fill out the date, time, title, and zoom link.
-* Put a reminder in the student slack channel ~20 before it starts.
+* Fill out the date, time, title, and zoom link. Title your group: "Learn Engineer Led: The Title"
+* Make sure you are a TA in the v-000 batch! That is the only way the study group will be marked to students as "Flatiron Hosted". Add yourself to the batch via the batch show page or just ask Sophie to do it for you.
+* Put a reminder in the student slack channel ~20 before it starts. Channels are online-web-developer and online-web-sp on learn-co.slack.com. Let Sophie know if you can't access those channels and she'll get you invited.
 * That's it!
 
 # What is a Study Group
@@ -35,23 +36,23 @@ Ideas:
 * What is refactoring?
 * GitHub as a collaboration tool: make a PR, someone reviews it, merge it in. rebase?
 
-* Title your study group "Engineer Live Discussion: JWT Auth in Rails"
+* Title your study group "Learn Engineer Live Discussion: JWT Auth in Rails"
 
 ### Live Build
 Pick a topic (Sinatra, JavaScript + DOM events, Rails routing) and build out a simple app or write some live code in an existing app or project that offers a closer look at the topic. For example, "Live Building: Rails Routing" could see you set up a new Rails app, define some routes and simple views and talk about how routing working in Rails.
 
-* Title your study group: "Engineer Project Build: JavaScript Events + The DOM"
+* Title your study group: "Learn Engineer Project Build: JavaScript Events + The DOM"
 
 ### Live Problem Solving
 Show students how to use TDD and "thinking out loud" to solve a small code challenge. This can be framed as interview prep. Pick a code kata or, even better, a challenge from the [Flatiron Technical Interview Prep for Students repo](https://github.com/learn-co-curriculum/tips) to complete with your study group.
 
-* Title your group "Engineer Problem Solving: Something Something"
+* Title your group "Learn Engineer Problem Solving: Something Something"
 
 
 ### Curriculum Topic Office Hours/AMA
 Pick a topic from the curriculum (the drop down menu in the create study group form will give you a sense of curriculum topics) and host office hours. This is an open format in which students can come with any questions on that topic. You can also pick a lab from that topic to review or have an idea for a small app or some code you can write together in case no one has specific questions.
 
-* Title your study group "Engineer Office Hours: Sessions in Rails"
+* Title your study group "Learn Engineer Office Hours: Sessions in Rails"
 
 # Logistics
 
