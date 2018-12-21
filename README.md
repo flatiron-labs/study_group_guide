@@ -61,7 +61,7 @@ Pick a topic from the curriculum (the drop down menu in the create study group f
 
 ## Prerequisites
 * You need to be a member of the learn-co-students GitHub org. DM Sophie or Niky to invite you if you're not a member.
-* In your Learn.co profile, set "in browser IDE" as your default learning environment.
+* IF your study group will use a Learn lab or lesson, use the Learn IDE! In your Learn.co profile, set "in browser IDE" as your default learning environment.
 * From the "Curriculum" drop down menu on Learn.co, select "Fullstack Web Development v6"
 
 ## Creating and Scheduling
@@ -72,11 +72,7 @@ Pick a topic from the curriculum (the drop down menu in the create study group f
 * Fill out the form, including the Zoom link, and hit submit!
 
 ## Alerting/Reminding Students
-* If you schedule your study group by Thursday of a given week, it will be included in a weekly roundup email students get outlining all upcoming study groups.
-* ~20min before your study group starts, slack a reminder in the Learn.co Slack channels:
-  * [online-web-developer](https://learn-co.slack.com/messages/G0B6FET6G/details/)
-  * [online-web-sp](https://learn-co.slack.com/messages/CCXRW5UD6/details/)
-* You can log into Learn.co slack by visiting the "connected app" section of your Learn profile and you can DM sophie.debenedetto to get invited to those channels.
+Thanks to the Study Group Bot, a brand-new slack bot, you don't have to do anything! The bot will slack the relevant student slack channels in learn-co.slack.com 15 minutes before your study group starts with a reminder. 
 
 ## Survey Students
 * Share [this survey](https://theflatironschool.typeform.com/to/jMLdwE) with your Zoom attendees at the end of the study group. 
