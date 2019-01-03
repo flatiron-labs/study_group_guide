@@ -20,6 +20,10 @@ Study groups are a GREAT way to...
 * Work with and learn from our expert teachers
 * Interact with Learn.co in all of its glory
 
+# IMPORTANT: How to Introduce Your Study Group
+
+It's key to frame your study group correctly to the participating students. Your study group is NOT required content nor does it introduce info that students MUST understand in order succeed at Flatiron or as a developer. It IS a fun way for them to encounter Flatiron devs, learn interesting new things and see a more experienced dev in action as we solve problems and think through new concepts. We introduce our study groups to our students as BONUS and a great way to get to know and work with a Flatiron engineer. Start your study group by clarifying this thinking and make sure you leave time during the group or at the end for students to ask questions. And don't forget to have fun!
+
 # Picking a Topic
 There are a few general categories for topics. We recommend picking a topic that isn't thoroughly covered in our curriculum. Something that your experience as an engineer has taught you. This kind of stuff is really valuable for students--stuff they can't learn from a README or lab.
 
