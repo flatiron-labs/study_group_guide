@@ -8,7 +8,7 @@ Engineer-led study groups are **every Wednesday from 5-6pm**. They are remote an
 * Go to [Learn.co](https://learn.co) and click the big green "create study group" button.
 * Fill out the date, time, title, and zoom link. Title your group: "Learn Engineer Led: The Title"
 * Make sure you are a TA in the v-000 batch! That is the only way the study group will be marked to students as "Flatiron Hosted". Add yourself to the batch via the batch show page or just ask Sophie to do it for you.
-* Put a reminder in the student slack channel ~20 before it starts. Channels are online-web-developer and online-web-sp on learn-co.slack.com. Let Sophie know if you can't access those channels and she'll get you invited.
+* Record your study group using Zoom or Quicktime or whatever you prefer. Share the recording in the #student-council Slack channel when you're done
 * That's it!
 
 # What is a Study Group
